@@ -1,3 +1,4 @@
+### I have created this news website with the help of news api so it won't work on gh pages but it works on localhost.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
